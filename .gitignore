@@ -6,6 +6,7 @@
 # website: http://jupyter.org/
 
 # data
+mission/
 *.txt
 
 .ipynb_checkpoints
